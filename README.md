@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hey there, I'm Himanshu Choudhry
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hey there, I'm Himanshu Choudhary
 **CP | DSA | IIIT Jabalpur**  
  Currently pursuing my B.Tech in Computer Science and Engineering at IIIT Jabalpur 🎓  
  I'm constantly seeking for challenges and opportunities to learn and grow.
