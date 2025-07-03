@@ -65,9 +65,5 @@
 
 <div align="center">
 
-<a href="https://github.com/Somgester">
-  <img src="https://komarev.com/ghpvc/?username=Somgester&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-</a>  
-
 </div>
 
