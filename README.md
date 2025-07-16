@@ -4,6 +4,7 @@
 🎓 B.Tech CSE @ IIIT Jabalpur (2022–2026)  
 💼 Fullstack Contributor @ IIITDMJ Fusion Website  
 🏆 Top 1.4% in Amazon Hackathon (38,630+ participants) | 3⭐ CodeChef | Knight @ LeetCode (450+ Qs)
+🏆 3⭐ CodeChef | Knight @ LeetCode (450+ Qs) | Pupil @ Codeforces
 
 ---
 
