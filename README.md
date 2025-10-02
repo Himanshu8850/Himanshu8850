@@ -64,14 +64,6 @@
 
 ---
 
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu8850&theme=react-dark&bg_color=00000000&hide_border=true" />
-</div>
-
----
-
 ## 📬 Reach Me
 
 <a href="mailto:1130himanshu@gmail.com">
