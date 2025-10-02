@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Himanshu Choudhary
 
-🚀 **Full-Stack Developer | Competitive Programmer | ML Enthusiast**  
+🚀 **Full-Stack Developer | Competitive Programmer**  
 🎓 B.Tech CSE @ IIIT Jabalpur (2022–2026)  
 💼 Fullstack Contributor @ IIITDMJ Fusion Website  
 🏆 Top 1.4% in Amazon Hackathon (38,630+ participants)
