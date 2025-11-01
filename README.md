@@ -78,5 +78,5 @@
 
 ---
 
-⚡ **Fun Fact:** I binge audiobooks while debugging 🧠🎧  
+⚡ **Fun Fact:** I binge white noise while debugging 🧠🎧  
 💡 *Always hacking, always learning.*
