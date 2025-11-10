@@ -19,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
 </p>
 
-
 ### 🌐 Web & Frameworks
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
