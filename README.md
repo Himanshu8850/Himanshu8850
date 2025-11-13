@@ -56,7 +56,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Himanshu8850&show_icons=true&theme=dark&hide_border=true" height="160"/>
 <img src="https://streak-stats.demolab.com?user=Himanshu8850&theme=dark&hide_border=true" height="160"/>
 <!-- Add the cache bust parameter with today's date or random number -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshu8850&layout=compact&theme=dark&hide_border=true&cache_bust=20251107_1415" height="160"/>
