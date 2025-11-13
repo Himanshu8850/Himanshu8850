@@ -1,81 +1,82 @@
-# 👋 Hey there, I'm Himanshu Choudhary
+👋 Hey there, I'm Himanshu Choudhary
 
-🚀 **Full-Stack Developer | Competitive Programmer**  
-🎓 B.Tech CSE @ IIIT Jabalpur (2022–2026)  
-💼 Fullstack Contributor @ IIITDMJ Fusion Website  
+🚀 Full-Stack Developer | Competitive Programmer 🎓 B.Tech CSE @ IIIT Jabalpur (2022–2026)
+
+💼 Fullstack Contributor @ IIITDMJ Fusion Website
+
 🏆 Top 1.4% in Amazon Hackathon (38,630+ participants)
 🏆 3⭐ CodeChef | Knight @ LeetCode (500+ Qs) | Pupil @ Codeforces
 
----
+💻 Tech Stack
 
-## 💻 Tech Stack
+👨‍💻 Languages
 
-### 👨‍💻 Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
 </p>
 
-### 🌐 Web & Frameworks
+🌐 Web & Frameworks
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
 </p>
 
+🛢️ Databases & Tools
 
-### 🛢️ Databases & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" />
 </p>
 
+🚀 Projects
 
----
+<!-- TIP: Add links to your project repo or a live demo! -->
 
-## 🏆 Projects & Achievements
+🔹 DDoS Detection System using ML and packet analysis (capstone project)
 
-- 🔹 **DDoS Detection System** using ML and packet analysis (capstone project)
-- 🔹 **MERN Chat App** with real-time messaging and authentication
-- 🔹 **Travel Itinerary Generator** using Flask, Mapbox, and Gemini API
-- 🔹 **Stock Tracker** like Groww with React, filters, and market data
+🔹 MERN Chat App with real-time messaging and authentication
 
----
+🔹 Travel Itinerary Generator using Flask, Mapbox, and Gemini API
 
-## 📈 GitHub Stats
+🔹 Stock Tracker like Groww with React, filters, and market data
 
-<div align="center">
+📈 GitHub Stats
+
+<p align="center">
+<!-- Adding the cache_bust parameter is a great idea! -->
 <img src="https://streak-stats.demolab.com?user=Himanshu8850&theme=dark&cache_bust=3" height="160"/>
-<!-- Add the cache bust parameter with today's date or random number -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshu8850&layout=compact&theme=dark&hide_border=true&cache_bust=20251107_1415" height="160"/>
-</div>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHimanshu8850%26theme%3Ddark%26show_icons%3Dtrue%26hide_border%3Dtrue%26cache_bust%3D4" height="160"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DHimanshu8850%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26cache_bust%3D5" height="160"/>
+</p>
 
----
+📬 Reach Me
 
-## 📬 Reach Me
-
+<p align="center">
 <a href="mailto:1130himanshu@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/himanshu-choudhary-178618245">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/himanshu_choudhary_/">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+</p>
 
----
+⚡ Fun Fact: I binge white noise while debugging 🧠🎧
 
-⚡ **Fun Fact:** I binge white noise while debugging 🧠🎧  
-💡 *Always hacking, always learning.*
+💡 Always hacking, always learning.
