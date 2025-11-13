@@ -13,38 +13,35 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Java" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Python" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="JavaScript" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Bash" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Bash" />
 </p>
 
 🌐 Web & Frameworks
 
 <p align="center">
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="React" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Node.js" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Flask" />
-<img src="https.www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Tailwind CSS" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="HTML5" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Flask" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="CSS3" />
 </p>
 
 🛢️ Databases & Tools
 
 <p align="center">
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="MongoDB" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="MySQL" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Firebase" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Git" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="GitHub" />
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Docker" />
-<!-- FIX: Corrected the Linux icon URL -->
-<img src="https.cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" width="28" style="display:inline-block;margin:4px;" alt="Linux" />
+<img src="httpsain.js" height="28" width="28" style="display:inline-block;margin:4px;" alt="MongoDB" />
+<img src="httpsain.js" height="28" width="28" style="display:inline-block;margin:4px;" alt="MySQL" />
+<img src="httpsain.js" height="28" width="28" style="display:inline-block;margin:4px;" alt="Firebase" />
+<img src="httpsain.js" height="28" width="28" style="display:inline-block;margin:4px;" alt="Git" />
+<img src="httpsain.js" height="28" width="28" style="display:inline-block;margin:4px;" alt="GitHub" />
+<img src="httpsain.js" height="28" width="28" style="display:inline-block;margin:4px;" alt="Docker" />
+<img src="httpsain.js" height="28" width="28" style="display:inline-block;margin:4px;" alt="Linux" />
 </p>
 
 🚀 Projects
-
-<!-- TIP: Add links to your project repo or a live demo! -->
 
 🔹 DDoS Detection System using ML and packet analysis (capstone project)
 
@@ -57,26 +54,26 @@
 📈 GitHub Stats
 
 <p align="center">
-<!-- The cache_bust parameter is a great idea! -->
-<img src="https://streak-stats.demolab.com?user=Himanshu8850&theme=dark&cache_bust=3" height="160" alt="Himanshu's GitHub Streak"/>
-<!-- FIX: Corrected the GitHub Stats URL -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHimanshu8850%26theme%3Ddark%26show_icons%3Dtrue%26hide_border%3Dtrue%26cache_bust%3D4" height="160" alt="Himanshu's GitHub Stats"/>
-<!-- FIX: Corrected the Top Langs URL -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DHimanshu8850%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26cache_bust%3D5" height="160" alt="Himanshu's Top Languages"/>
+<!--
+FIX: Added a cache_bust parameter to all stats links.
+If they break again, just change the number (e.g., from 101 to 102).
+-->
+<img src="httpsAccess-Control-Allow-Origin: https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DHimanshu8850%26theme%3Ddark%26cache_bust%3D101" height="160" alt="Himanshu's GitHub Streak"/>
+<img src="httpsAccess-Control-Allow-Origin: https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHimanshu8850%26theme%3Ddark%26show_icons%3Dtrue%26hide_border%3Dtrue%26cache_bust%3D102" height="160" alt="Himanshu's GitHub Stats"/>
+<img src="httpsAccess-Control-Allow-Origin: https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DHimanshu8850%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26cache_bust%3D103" height="160" alt="Himanshu's Top Languages"/>
 </p>
 
 📬 Reach Me
 
 <p align="center">
 <a href="mailto:1130himanshu@gmail.com">
-<img src="https.img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+<img src="httpsAccess-Control-Allow-Origin: https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
 </a>
-<a href="https://www.linkedin.com/in/himanshu-choudhary-178618245">
-<img src="https.img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
+<a href="httpsClick: https://www.linkedin.com/in/himanshu-choudhary-178618245">
+<img src="httpsAccess-Control-Allow-Origin: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
 </a>
-<!-- FIX: Removed unnecessary backslash from LeetCode URL -->
-<a href="https://www.google.com/search?q=https.leetcode.com/himanshu_choudhary_/">
-<img src="https.img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="My LeetCode"/>
+<a href="httpsClick: https://leetcode.com/himanshu_choudhary_/">
+<img src="httpsAccess-Control-Allow-Origin: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="My LeETCode"/>
 </a>
 </p>
 
